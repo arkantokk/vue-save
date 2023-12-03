@@ -1,0 +1,19 @@
+Transaction ID: 1700590370580, User: fedsgsdfgdsfg, Card Number: 34, Expiry: 52/53, CVV: 532, Total Price: 2290, Worker: 12321
+Transaction ID: 1700591069668, User: fdssdafsdaf asdsdafsdaf, Card Number: 3541 5314 5134 5123, Expiry: 12/35, CVV: 123, Total Price: 890, Worker: 12321
+Transaction ID: 1700671956371, User: asdfasdf, Card Number: 3425 2345, Expiry: 32/45, CVV: 234, Total Price: 5000, Worker: m6zo
+Transaction ID: 1700673180617, User: adsfaasdfsa, Card Number: 3214 3214 2134 2134, Expiry: 12/34, CVV: 123, Total Price: 2290, Worker: m6zo
+Transaction ID: 1700673206362, User: sdafsad, Card Number: 3241, Expiry: 23/14, CVV: 123, Total Price: 2290, Worker: m6zo
+Transaction ID: 1700673898744, User: rfs, Card Number: 4352, Expiry: 23/45, CVV: 324, Total Price: 2290, Worker: m6zo
+Transaction ID: 1700674241951, User: sadf, Card Number: 3215 4, Expiry: 23/15, CVV: 213, Total Price: 2290, Worker: k7w8
+Transaction ID: 1700674304118, User: wdfasdf, Card Number: 3425 1, Expiry: 12/34, CVV: 123, Total Price: 5000, Worker: 4am3
+Transaction ID: 1700675096821, User: dsdf, Card Number: 3452 4523 45, Expiry: 32/45, CVV: 324, Total Price: 5000, Worker: 4am3
+Transaction ID: 1700675625992, User: dfg, Card Number: 3453 465, Expiry: 45/63, CVV: 345, Total Price: 5000, Worker: 4am3
+Transaction ID: 1700677151829, User: Valeron, Card Number: 3298 4093 2184 7098, Expiry: 23/14, CVV: 234, Total Price: 890, Worker: hz46
+Transaction ID: 1700683889571, User: dsafsadf, Card Number: 3214 5321 4213 4213, Expiry: 21/34, CVV: 213, Total Price: 890, Worker: hz46
+Transaction ID: 1700684153609, User: sadf, Card Number: 2314, Expiry: 23/14, CVV: 231, Total Price: 2290, Worker: hz46
+Transaction ID: 1700684452321, User: fdsgdfsg, Card Number: 4325 3425, Expiry: 32/45, CVV: 324, Total Price: 2290, Worker: k7w8
+Transaction ID: 1700684786191, User: asdf, Card Number: 4523 1, Expiry: 21/34, CVV: 123, Total Price: 2290, Worker: k7w8
+Transaction ID: 1700685360807, User: dwfasdf, Card Number: 3241 5231, Expiry: 45/, CVV: 123, Total Price: 5000, Worker: hz46
+Transaction ID: 1700685627543, User: fdgsdsfg, Card Number: 3456 2432 534, Expiry: 25/32, CVV: 324, Total Price: 5000, Worker: hz46
+Transaction ID: 1700766523445, User: igor pidor, Card Number: 2454 3342 4243 2423, Expiry: 32/43, CVV: 555, Total Price: 1200, Worker: dv97
+Transaction ID: 1700773932798, User: irwHVU IBSYIYBCSDYFV, Card Number: 3142 2542 5234 5364, Expiry: 45/35, CVV: 534, Total Price: 2290, Worker: 31c6
